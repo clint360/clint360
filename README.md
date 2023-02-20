@@ -25,20 +25,21 @@ Here are some ideas to get you started:
 
 
 <h2 align="Center">  Clint's Tech Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
-   ### My Programming Skills
+  
+  ### My Programming Skills
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
       </td>
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
       </td>
-            <td width="25%" align="center">
+            <td width="140px" align="center">
         <span>C</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
       </td>
@@ -51,39 +52,39 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/create-react-app.svg">
       </td>
-            <td width="25%" align="center">
+            <td width="140px" align="center">
         <span>NextJS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span>React Native</span><br><br><br>
         <img height="64px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
       </td>
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span><strong>CSS3</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span><strong>Electron</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span><strong>Ionic</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ionic-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span><strong>Tailwind</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="140px" align="center">
         <span><strong>Sass</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
