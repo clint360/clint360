@@ -8,54 +8,91 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and Python
+- 🏟  I'm currently studing at Rebase Academy, Yaounde
+- 🔭 I’m currently searching for a tech role.
+- 🌱 I’m currently learning ... Typescript
 - 👯 I’m looking to collaborate on ... Any of project
 - 🤔 I’m looking for help with ... Vuejs 
 - 💬 Ask me about ... What ever.... :laughing:
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
+- ⚡ Fun fact: ... Enjoy Coding with Music
 <br/>
 
-### Languages and Tools:
-<div display="flex">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
-</div>
-<br/>
+## My Github Statistics 📈
 
-### Machine:
-<div display="flex">
-  <img src="https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu-MSI%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</div>
-<br>
+[![Clint's GitHub stats](https://github-readme-stats.vercel.app/api?username=clint360&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clint360&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
-### Gaming:
-<div display="flex">
-  <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PUBG-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
-</div>
-<br>
 
-  ### Git Hub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=clint360&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<h2 align="Center">  Clint's Tech Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+   ### My Programming Skills
 
-  ### Languages used
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clint360&layout=compact&bg_color=ffffff&text_color=333333">
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
+      </td>
+            <td width="25%" align="center">
+        <span>C</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+   ### My Frontend Technology Skills
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/create-react-app.svg">
+      </td>
+            <td width="25%" align="center">
+        <span>NextJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React Native</span><br><br><br>
+        <img height="64px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>CSS3</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Electron</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Ionic</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ionic-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Tailwind</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Sass</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+
+
+<hr>
+
