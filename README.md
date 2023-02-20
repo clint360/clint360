@@ -62,7 +62,7 @@ Here are some ideas to get you started:
       </td>
       <td width="140px" align="center">
         <span>React Native</span><br><br><br>
-        <img height="64px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
       </td>
       <td width="140px" align="center">
         <span><strong>CSS3</strong>
