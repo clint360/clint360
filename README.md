@@ -7,18 +7,8 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-- 🏟  I'm currently studing at Rebase Academy, Yaounde
-- 🔭 I’m currently searching for a tech role.
-- 🌱 I’m currently learning ... Typescript
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs 
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Enjoy Coding with Music
-<br/>
 
-## My Github Statistics 📈
+##Github Statistics 📈
 
 [![Clint's GitHub stats](https://github-readme-stats.vercel.app/api?username=clint360&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clint360&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +16,7 @@ Here are some ideas to get you started:
 
 <h2 align="Center">  Clint's Tech Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
   
-  ### My Programming Skills
+  ### Programming Skills
 
 <table>
   <tbody>
@@ -47,7 +37,7 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-   ### My Frontend Technology Skills
+   ### Frontend Technology Skills
 
 <table>
   <tbody>
@@ -64,6 +54,15 @@ Here are some ideas to get you started:
         <span>React Native</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
       </td>
+      <td width="140px" align="center">
+        <span>HTML5</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="140px" align="center">
+        <span>Markdown</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+      </td>
+      
       <td width="140px" align="center">
         <span><strong>CSS3</strong>
         </span><br><br><br>
