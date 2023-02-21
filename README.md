@@ -37,6 +37,24 @@
   </tbody>
 </table>
 
+  ### Designs Skills
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="140px" align="center">
+        <span>Figma</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
+      <td width="140px" align="center">
+        <span>Photoshop</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
    ### Frontend Technology Skills
 
 <table>
