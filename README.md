@@ -91,19 +91,9 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
       </td>
       <td width="140px" align="center">
-        <span><strong>Ionic</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ionic-icon.svg">
-      </td>
-      <td width="140px" align="center">
         <span><strong>Tailwind</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="140px" align="center">
-        <span><strong>Sass</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
     </tr>
   </tbody>
